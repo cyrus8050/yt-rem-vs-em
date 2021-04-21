@@ -1,0 +1,22 @@
+.container{
+    text-align: center;
+    background: blue;
+    width: 50vw;
+    height: 100vh;
+}
+.container2{
+    text-align: center;
+    background: red;
+    height: 100vh;
+}
+
+/* p{
+font-size:5em;
+color: white;
+font-weight: bold;
+
+} */
+*{
+    margin: 0;
+}
+
